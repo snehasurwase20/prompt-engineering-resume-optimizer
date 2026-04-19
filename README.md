@@ -1,13 +1,13 @@
 # Prompt Engineering Project – Resume Optimization
 
 ## Objective
-To improve resume quality using different prompt engineering techniques.
+To improve resume quality using prompt engineering techniques and analyze how different prompt structures impact AI-generated outputs.
 
 ## Approach
-Tested three types of prompts:
-- Basic prompt
-- Structured prompt
-- Role-based prompt (acting as a hiring manager)
+Tested three prompt strategies:
+- Basic prompt (minimal instruction)
+- Structured prompt (clear formatting instructions)
+- Role-based prompt (AI acts as a hiring manager)
 
 ## Example
 
@@ -20,7 +20,12 @@ I know Python and SQL. I am hardworking and want a job.
 - Passionate about data science and analytics
 
 ## Results
-Role-based prompts generated the most structured, relevant, and professional outputs.
+- Basic prompts produced generic responses  
+- Structured prompts improved clarity and formatting  
+- Role-based prompts generated the most relevant, structured, and professional outputs  
 
 ## Key Learning
-Prompt design directly impacts AI output quality. More specific and contextual prompts lead to better results.
+Prompt structuring and contextual instructions significantly impact AI output quality. More specific and role-based prompts lead to more accurate and optimized results.
+
+## Tools Used
+- ChatGPT
