@@ -28,4 +28,4 @@ I know Python and SQL. I am hardworking and want a job.
 Prompt structuring and contextual instructions significantly impact AI output quality. More specific and role-based prompts lead to more accurate and optimized results.
 
 ## Tools Used
-- ChatGPT
+- ChatGPT (OpenAI)
