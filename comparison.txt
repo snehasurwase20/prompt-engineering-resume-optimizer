@@ -1,0 +1,8 @@
+Comparison:
+
+Prompt 1 → basic improvement, not structured  
+Prompt 2 → better formatting and clarity  
+Prompt 3 → best output, professional and ATS-friendly  
+
+Conclusion:
+Better prompts give better results.

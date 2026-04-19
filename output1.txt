@@ -1,0 +1,18 @@
+Resume Summary
+Aspiring Data Analyst with a strong foundation in Python and SQL, and hands-on experience working on data-driven projects. Skilled in data cleaning, analysis, and visualization, with a growing interest in data science and machine learning. Demonstrated ability to learn quickly, solve problems, and work consistently to meet goals. Actively seeking an opportunity to apply analytical skills to real-world business challenges.
+
+Skills
+Programming: Python (Pandas, NumPy, Matplotlib)
+Databases: SQL (queries, joins, data manipulation)
+Data Analysis and Visualization
+Problem Solving and Critical Thinking
+
+Projects
+
+Conducted data analysis on datasets to identify trends and generate actionable insights using Python
+Wrote SQL queries to extract, clean, and analyze structured data
+Created visualizations and reports to communicate findings effectively
+
+Additional Strengths
+Strong work ethic and willingness to learn
+Passion for data science and continuous skill development

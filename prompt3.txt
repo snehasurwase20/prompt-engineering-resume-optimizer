@@ -1,0 +1,2 @@
+Act as a hiring manager. Rewrite this resume to be ATS-friendly, include relevant keywords, and make it suitable for a data science internship:
+I know Python and SQL. I am hardworking and want a job. I have done some projects. I like data science.

@@ -1,0 +1,29 @@
+As it stands, this wouldn’t pass an ATS or a recruiter’s first scan—it’s missing keywords, structure, and proof of skills. Here’s a version that’s optimized for a data science internship and actually searchable:
+
+Resume Summary
+Aspiring Data Science Intern with foundational knowledge in Python and SQL, and hands-on experience in data analysis projects. Skilled in data cleaning, data manipulation, and exploratory data analysis (EDA). Strong interest in machine learning, data visualization, and deriving actionable insights from data. Seeking an opportunity to apply analytical and technical skills in a data-driven environment.
+
+Technical Skills
+
+-Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)
+-Database Management: SQL (SELECT, JOIN, GROUP BY, data manipulation)
+-Data Analysis: Exploratory Data Analysis (EDA), data cleaning, data preprocessing
+-Visualization: Matplotlib, Seaborn
+-Tools: Jupyter Notebook, Excel
+
+Projects
+
+-Performed exploratory data analysis on structured datasets using Python to identify trends and patterns
+-Cleaned and preprocessed raw data to improve data quality and usability
+-Wrote optimized SQL queries to extract, filter, and analyze data from relational databases
+-Developed data visualizations to present insights using Matplotlib and Seaborn
+
+Core Competencies
+
+-Analytical Thinking
+-Problem Solving
+-Attention to Detail
+-Self-motivated and Quick Learner
+
+Career Objective
+Seeking a Data Science Internship to apply skills in Python, SQL, and data analysis while gaining hands-on experience in machine learning and real-world data applications.

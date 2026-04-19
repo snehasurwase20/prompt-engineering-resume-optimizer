@@ -1,0 +1,19 @@
+Resume Summary
+Motivated and detail-oriented aspiring Data Analyst with foundational knowledge of Python and SQL. Demonstrates a strong work ethic, eagerness to learn, and a keen interest in data science. Seeking an opportunity to apply analytical skills and contribute to data-driven decision-making.
+
+Skills
+
+-Proficient in Python for data analysis
+-Working knowledge of SQL for data querying and manipulation
+-Basic understanding of data analysis concepts
+
+Projects
+
+-Completed multiple data-related projects using Python and SQL
+-Applied analytical techniques to extract insights from datasets
+
+Strengths
+
+-Hardworking and dedicated
+-Quick learner with a proactive attitude
+-Strong interest in data science and analytics
